@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1543905364 source:e:\c\testing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1549181599 source:d:\sem-3\term works(advc)\advc project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1549181599 source:c:\sem-3\term works(advc)\advc project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

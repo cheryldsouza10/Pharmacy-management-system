@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543945875 source:c:\users\cheryl d'souza\desktop\term works\term work 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+    Name:Abhishek  Address:Tadkod    Phone Number:9148301122
+    Name:Ramesh  Address:Tadkod    Phone Number:9837583993
+    Name:Sateesh  Address:Tadkod    Phone Number:890520640
+  
+    Name:raju  Address:tilakwadi    Phone Number:9456
+    Name:Cheryl  Address:Belgaum    Phone Number:1234567890

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538589067 source:c:\users\cheryl d'souza\desktop\term works\term work 5\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+

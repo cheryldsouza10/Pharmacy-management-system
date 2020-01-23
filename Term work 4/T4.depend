@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1543953292 source:c:\users\cheryl d'souza\desktop\t4\dr.c
+	"inv.h"
+
+1543953316 c:\users\cheryl d'souza\desktop\t4\inv.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1543953332 source:c:\users\cheryl d'souza\desktop\t4\main.c
+	"inv.h"
+
+1543953350 source:c:\users\cheryl d'souza\desktop\t4\pr.c
+	"inv.h"
+
+1543953364 source:c:\users\cheryl d'souza\desktop\t4\qr.c
+	"inv.h"
+
+1543953379 source:c:\users\cheryl d'souza\desktop\t4\tra.c
+	"inv.h"
+

@@ -1,0 +1,28 @@
+
+Name:raju  Phone Number:9480    Medicine:crocin  Quantity:2
+Bill=5.000000
+
+
+Name:RAJ  Phone Number:890520532    Medicine:flexon  Quantity:3
+Bill=9.000000
+
+Name:abhishek  Phone Number:9654316    Medicine:crocin  Quantity:2
+Bill=5.000000
+
+
+Name:COMMON  Phone Number:945678    Medicine:flexon  Quantity:2
+Bill=6.000000
+
+Name:abhi  Phone Number:898288719    Medicine:flexon  Quantity:1
+
+Name:boe  Phone Number:914562355    Medicine:f  Quantity:1
+Bill=0.000000
+
+
+Name:5  Phone Number:2
+Name:g  Phone Number:6356636
+Name:d  Phone Number:6356636
+Name:r  Phone Number:6356636
+Name:5  Phone Number:6356636
+Name:2  Phone Number:2
+Name:bag  Phone Number:264    Medicine:sdf  Quantity:3

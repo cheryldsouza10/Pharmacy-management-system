@@ -1,0 +1,4 @@
+    Medicine:crocin   Price:2.500000  Quantity:8
+    Medicine:salibid   Price:5.000000  Quantity:15
+    Medicine:folvite   Price:2.000000  Quantity:3
+    Medicine:flexon   Price:3.000000  Quantity:5
